@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "eHCfI3AiU31NMwMVgAXTmndQ9uQN3zUvV6/a4FpO3tQ=",
+  "Source": "Projeto_Web-Lh_Pets_Alunos",
+  "BasePath": "_content/Projeto_Web-Lh_Pets_Alunos",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Projeto_Web-Lh_Pets_Alunos\\wwwroot",
+      "Source": "Projeto_Web-Lh_Pets_Alunos",
+      "ContentRoot": "C:\\Users\\julia\\OneDrive\\Área de Trabalho\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\",
+      "BasePath": "_content/Projeto_Web-Lh_Pets_Alunos",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\julia\\OneDrive\\Área de Trabalho\\Projeto_Web-Lh_Pets_Alunos\\obj\\Debug\\net9.0\\compressed\\dicwlzl109.gz",
+      "SourceId": "Projeto_Web-Lh_Pets_Alunos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\julia\\OneDrive\\Área de Trabalho\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\",
+      "BasePath": "_content/Projeto_Web-Lh_Pets_Alunos",
+      "RelativePath": "index.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\julia\\OneDrive\\Área de Trabalho\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\julia\\OneDrive\\Área de Trabalho\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\julia\\OneDrive\\Área de Trabalho\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\index.html",
+      "SourceId": "Projeto_Web-Lh_Pets_Alunos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\julia\\OneDrive\\Área de Trabalho\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\",
+      "BasePath": "_content/Projeto_Web-Lh_Pets_Alunos",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
